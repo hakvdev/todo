@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: monospace;
-    background-image: url(/fondo.png);
+    background-color: #141414;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
